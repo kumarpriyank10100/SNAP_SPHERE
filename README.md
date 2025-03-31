@@ -1,9 +1,5 @@
 # SNAP_SPHERE
 
-Here's a strong project description for your Instagram-like social media platform, along with a catchy name:  
-
----
-
 # **SnapSphere – A Modern Instagram Clone**  
 
 ## **Overview**  
@@ -40,6 +36,3 @@ Social media platforms like Instagram have redefined digital interaction, but bu
 
 SnapSphere is not just an Instagram clone—it’s a **scalable, feature-rich, and modern social media platform** that serves as a great foundation for further innovation in the social networking space. 🚀  
 
----
-
-Would you like any refinements or additional features? 😊
